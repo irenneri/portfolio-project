@@ -106,6 +106,10 @@ p {
    padding: 120px 60px; 
 }
 
+.photo {
+    border-radius: 10px;
+}
+
 .logo {
     max-width: 150px;
     max-height: 40px;
