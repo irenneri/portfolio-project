@@ -115,6 +115,15 @@ p {
     max-height: 40px;
 }
 
+.bigger {
+    text-decoration: none;
+    border: #272142;
+    border-radius: 10px;
+    transition: all 1.2s ease-in-out;
+    transform: scale(2);
+    
+}
+
 .nav {
     padding: 20px;
 }
